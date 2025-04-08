@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs
+*.log
+
+# Local env files and secrets
+.env
+*.sqlite3
+
+# macOS files
+.DS_Store
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Coverage reports
+.coverage
+htmlcov/
+.tox/
+
+# Render deployment files (optional if you don't want to push them)
+render.yaml
